@@ -1,2 +1,2 @@
 # dstk
-Simple Data Science Toolkit for C#
+Simple Data Science Toolkit for C++
